@@ -1,4 +1,4 @@
-# 🔗 Production-Ready URL Shortener
+# 🔗 ShrinKit
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -124,7 +124,7 @@ Create a `.env` file in the root directory and add your Supabase connection stri
 ```env
 DATABASE_URL=postgresql://postgres.your_project_ref:your_password@aws-0-region.pooler.supabase.com:6543/postgres
 BASE_URL=http://127.0.0.1:8000
-APP_NAME="Production URL Shortener"
+APP_NAME="APP_name"
 
 ```
 
